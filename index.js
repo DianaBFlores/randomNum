@@ -16,6 +16,19 @@ function getRandom() {
 
   getRandom();
 
+// working on this code
+  // async function getRandom() {
+
+//     let promise = new Promise((resolve, reject) =>
+//  {
+//       setTimeout(() => resolve(Math.floor(Math.random() * 55)), 500)
+//     });
+
+//     let result = await promise;
+//     console.log(result);
+//   }
+//   getRandom();
+
 
 
 
